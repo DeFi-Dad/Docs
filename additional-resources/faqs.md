@@ -1,5 +1,9 @@
 # ❓FAQs
 
+## What is Zapper?
+
+Zapper is your DeFi dashboard for monitoring your portfolio, includes assets, debts, liquidity pools, and yield farming. Zapper is also your gateway to investing in hundreds of DeFi strategies in just a few clicks. Zaps can save you time, effort, and transaction fees (gas) by deploying your capital and reallocating it in a single DeFi command control center, working with the most trusted DeFi applications like yearn.finance, Uniswap, Balancer, Curve, and more.
+
 ## What is the difference between 'Net ROI \(1mo\)' and '$ ROI \(1mo\)'?
 
 $ ROI \(1mo\) shows your returns measured in USD. This simply looks at $ difference over 1 month period.
